@@ -1,5 +1,5 @@
 # My Profile Site
-Demo : https://otto-mars.github.io/profile
+Live Site : https://otto-mars.github.io/profile
 ## Special Thanks (EN)
 
 We would like to express our special thanks for this project to the following account:
