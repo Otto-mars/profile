@@ -4,3 +4,6 @@ DirectoryIndex index.html
     Deny from all
 </Files>
 ErrorDocument 404 ./404.html
+ErrorDocument 502 ./ConnectError.html
+ErrorDocument 503 ./ConnectError.html
+ErrorDocument 504 ./ConnectError.html
